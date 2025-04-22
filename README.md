@@ -79,6 +79,6 @@
 
 Проект "ИИ-ассистент для подбора косметики" представляет собой инновационное решение для улучшения клиентского опыта в индустрии красоты. Благодаря использованию передовых технологий и удобному функционалу, ассистент становится надежным помощником как для клиентов, так и для бизнеса.
 
-![Иллюстрация к проекту]([https://example.com/image.png](https://github.com/Markprompter/AI-Assistant/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG?raw=true, )
+![Иллюстрация к проекту]([https://example.com/image.png](https://github.com/Markprompter/AI-Assistant/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG?raw=true)
 
 
